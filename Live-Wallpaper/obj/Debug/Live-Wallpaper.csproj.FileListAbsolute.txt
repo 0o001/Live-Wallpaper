@@ -1,0 +1,11 @@
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\bin\Debug\Live-Wallpaper.exe.config
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\bin\Debug\Live-Wallpaper.exe
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\bin\Debug\Live-Wallpaper.pdb
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\obj\Debug\Live-Wallpaper.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\obj\Debug\Live_Wallpaper.Properties.Resources.resources
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\obj\Debug\Live-Wallpaper.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\obj\Debug\Live-Wallpaper.exe
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\obj\Debug\Live-Wallpaper.pdb
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\obj\Debug\Live_Wallpaper.frm_livewallpaper.resources
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\bin\Debug\MediaToolkit.dll
+C:\Users\musta\source\repos\Live-Wallpaper\Live-Wallpaper\obj\Debug\Live-Wallpaper.csproj.CopyComplete
